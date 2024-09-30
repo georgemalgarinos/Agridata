@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agridata</string>
+    <string name="settings">Settings</string>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Greek</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Albanian</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
